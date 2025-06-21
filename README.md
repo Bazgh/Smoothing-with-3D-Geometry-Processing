@@ -49,3 +49,4 @@ Cotangent smoothed & enhanced
 
 Original mesh
 ![Bunny Enhanced](uniform-cotan-original(bunny).png)
+![Max Enhanced](uniform-cotan-original(nice max).png)
