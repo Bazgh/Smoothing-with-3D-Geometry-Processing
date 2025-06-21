@@ -48,3 +48,4 @@ Uniformly smoothed & enhanced
 Cotangent smoothed & enhanced
 
 Original mesh
+![Bunny Enhanced](uniform-cotan-original(bunny).png)
